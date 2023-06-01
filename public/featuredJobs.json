@@ -1,0 +1,129 @@
+[
+   {
+      "id": 1,
+      "logo": "https://i.ibb.co/j64MNvN/google-1-1-1.png",
+      "jobTitle": "Software Engineer",
+      "companyName": "Google LLC",
+      "jobType": ["Full-time", "Remote"],
+      "location": "New York, NY",
+      "salary": "$100K - $120K ",
+      "description": "We are looking for an experienced Project Manager to join our team. The ideal candidate will have a strong understanding of project management methodologies, including Agile and Waterfall. You will be responsible for planning, executing, and closing projects, as well as managing project timelines, budgets, and resources. You must be able to work collaboratively with project teams and stakeholders and have excellent leadership, communication, and problem-solving skills.",
+      "responsibilities": [
+         "Design and develop software applications",
+         "Collaborate with cross-functional teams to define requirements and develop solutions",
+         "Write clean, maintainable, and well-documented code",
+         "Contribute to the software development lifecycle, including testing and deployment",
+         "Participate in code reviews"
+      ],
+      "educationalQualification": "Bachelor’s degree in Computer Science or related field",
+      "experience": "3+ years of experience in software development",
+      "phone": "555-123-4567",
+      "email": "jobs@examplecompany1.com"
+   },
+   {
+      "id": 2,
+      "logo": "https://i.ibb.co/zRC14zG/netflix-4-1.png",
+      "jobTitle": "Marketing Manager",
+      "companyName": "Netflix",
+      "jobType": ["Full-time"],
+      "location": "Los Angeles, CA",
+      "salary": "$80K - $100K ",
+      "description": "We are seeking a Customer Service Representative to join our team. The ideal candidate will have experience in customer service and be passionate about delivering exceptional customer experiences. You will be responsible for answering customer inquiries, resolving issues, and providing support via phone, email, and chat. You must be able to work collaboratively with other customer service professionals and have excellent communication and problem-solving skills.",
+      "responsibilities": [
+         "Develop and execute marketing campaigns to drive customer acquisition and retention",
+         "Collaborate with cross-functional teams to develop messaging and positioning",
+         "Create and manage marketing budgets and timelines",
+         "Analyze and report on campaign performance",
+         "Stay up-to-date on industry trends and best practices"
+      ],
+      "educationalQualification": "Bachelor’s degree in Marketing, Business, or related field",
+      "experience": "5+ years of experience in marketing",
+      "phone": "310-555-5555",
+      "email": "hr@examplecompany2.com"
+   },
+   {
+      "id": 3,
+      "logo": "https://i.ibb.co/F3KMM8G/tesla-9-1.png",
+      "jobTitle": "Data Scientist",
+      "companyName": "Tesla",
+      "jobType": ["Full-time", "On-site"],
+      "location": "Seattle, WA",
+      "salary": "$120K ",
+      "description": "We are looking for a Financial Analyst to join our team. The ideal candidate will have a strong understanding of financial analysis, including forecasting, budgeting, and variance analysis. You will be responsible for analyzing financial data, developing financial models, and providing insights to support business decision-making. You must be able to work collaboratively with other finance professionals and have excellent communication and problem-solving skills.",
+      "responsibilities": [
+         "Develop and implement data models and algorithms",
+         "Collaborate with cross-functional teams to define data-driven solutions",
+         "Conduct statistical analysis and data visualization",
+         "Stay up-to-date on emerging data science tools and techniques",
+         "Communicate data insights to stakeholders"
+      ],
+      "educationalQualification": "Master’s degree in Data Science, Statistics, or related field",
+      "experience": "3+ years of experience in data science",
+      "phone": "123-456-7890",
+      "email": "recruiting@examplecompany3.com"
+   },
+   {
+      "id": 4,
+      "logo": "https://i.ibb.co/stZ0ySb/Group-10021.png",
+      "jobTitle": "Software Engineer",
+      "companyName": "Airbnb",
+      "jobType": ["Full-time", "Remote"],
+      "location": "San Francisco, CA",
+      "salary": "$120K - $150K ",
+      "description": "We are seeking an experienced Human Resources Specialist to join our team. The ideal candidate will have a deep understanding of HR best practices, including recruitment, employee relations, benefits administration, and compliance. You will be responsible for providing guidance and support to managers and employees, ensuring that all HR policies and procedures are followed. You must be able to work collaboratively with other HR professionals and have excellent communication and problem-solving skills.",
+      "responsibilities": [
+         "Design, develop, and maintain high-quality software",
+         "Collaborate with cross-functional teams to identify and solve complex problems",
+         "Write clean, efficient, and well-documented code",
+         "Conduct code reviews and provide constructive feedback",
+         "Stay up-to-date with emerging trends and technologies"
+      ],
+      "educationalQualification": "Bachelor’s degree in Computer Science or related field",
+      "experience": "3+ years of experience in software engineering",
+      "phone": "415-555-5555",
+      "email": "hr@examplecompany4.com"
+   },
+   {
+      "id": 5,
+      "logo": "https://i.ibb.co/GHCVPcd/amazon.png",
+      "jobTitle": "Product Manager",
+      "companyName": "Amazon",
+      "jobType": ["Full-time", "Remote"],
+      "location": "Austin, TX",
+      "salary": "$110K - $130K ",
+      "description": "We are seeking a highly skilled software developer to join our team. The ideal candidate will have experience in software development and programming, as well as a strong understanding of computer science principles. You will be responsible for designing, coding, testing and implementing software solutions that meet business and technical requirements. You must be able to work collaboratively with other developers and stakeholders, and have excellent problem-solving and communication skills.",
+
+      "responsibilities": [
+         "Define product strategy and roadmap",
+         "Collaborate with cross-functional teams to define product requirements",
+         "Work closely with engineering teams to ensure successful product development",
+         "Conduct user research and gather feedback to inform product decisions",
+         "Track and report on product performance"
+      ],
+      "educationalQualification": "Bachelor’s degree in Business, Computer Science, or related field",
+      "experience": "5+ years of experience in product management",
+      "phone": "512-555-5555",
+      "email": "careers@examplecompany5.com"
+   },
+   {
+      "id": 6,
+      "logo": "https://i.ibb.co/gRwpg8K/alibaba-removebg-preview.png",
+      "jobTitle": "Sales Representative",
+      "companyName": "Alibaba",
+      "jobType": ["Full-time", "On-site"],
+      "location": "Chicago, IL",
+      "salary": "$50K - $70K  plus commission",
+      "description": "We are looking for a Marketing Manager to lead our marketing efforts. The ideal candidate will have experience in digital marketing, branding, and lead generation. You will be responsible for developing and executing marketing strategies that drive customer acquisition, engagement, and retention. You must be able to manage a team of marketing professionals and work collaboratively with other departments to achieve business objectives. The ideal candidate will have strong leadership skills and a proven track record of driving results.",
+      "responsibilities": [
+         "Develop and maintain relationships with new and existing customers",
+         "Understand customer needs and recommend solutions",
+         "Conduct product demos and presentations",
+         "Collaborate with internal teams to ensure successful sales",
+         "Track and report on sales performance"
+      ],
+      "educationalQualification": "Bachelor’s degree in Business, Marketing, or related field",
+      "experience": "2+ years of experience in sales",
+      "phone": "312-555-5555",
+      "email": "recruitment@examplecompany6.com"
+   }
+]

@@ -1,0 +1,6 @@
+[
+   { "id": 1, "img": "https://i.ibb.co/tqysTgr/accounts-1.png", "name": "Software Engineer", "vacancy": 150 },
+   { "id": 2, "img": "https://i.ibb.co/GR5jZ5t/business-1.png", "name": "Marketing Manager", "vacancy": 120 },
+   { "id": 3, "img": "https://i.ibb.co/6Hf0bVT/chip-1.png", "name": "Graphic Designer", "vacancy": 110 },
+   { "id": 4, "img": "https://i.ibb.co/P4XDtkj/social-media-1.png", "name": "Data Analyst", "vacancy": 105 }
+]
